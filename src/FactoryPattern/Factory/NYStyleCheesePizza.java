@@ -12,24 +12,4 @@ public class NYStyleCheesePizza extends Pizza {
 
         toppings.add("Grated Reggiano Cheese");
     }
-
-    @Override
-    public void prepare() {
-
-    }
-
-    @Override
-    public void bake() {
-
-    }
-
-    @Override
-    public void cut() {
-
-    }
-
-    @Override
-    public void box() {
-
-    }
 }

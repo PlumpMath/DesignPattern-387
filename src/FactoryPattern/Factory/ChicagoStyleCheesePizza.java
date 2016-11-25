@@ -12,24 +12,4 @@ public class ChicagoStyleCheesePizza extends Pizza {
 
         toppings.add("Plum Tomato Cheese");
     }
-
-    @Override
-    public void prepare() {
-
-    }
-
-    @Override
-    public void bake() {
-
-    }
-
-    @Override
-    public void cut() {
-        System.out.println("Cutting the pizza into square slices");
-    }
-
-    @Override
-    public void box() {
-
-    }
 }
